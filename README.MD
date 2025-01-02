@@ -1,4 +1,9 @@
 
+# 🌟 Projet ECOM Microservices
+
+Ce projet implémente un système complet avec une architecture **microservices** et une interface utilisateur développée en **Angular** pour gérer 🧑‍💼 les clients, 🛍️ les produits, et 📦 les commandes.
+
+---
 <h3> ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤ </h3>
 
 <h1>Architecture du projet </h1>
