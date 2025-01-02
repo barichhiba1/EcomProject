@@ -12,6 +12,7 @@ Ce projet implémente un système complet avec une architecture **microservices*
 4. **🌉 Gateway-Service** : Passerelle API utilisant Spring Cloud Gateway pour le routage et la sécurité.
 5. **🔍 Eureka Discovery Service** : Service d'annuaire pour l'enregistrement et la découverte des microservices.
 6. **🛠️ Configuration-Service** : Centralisation et gestion des configurations à partir d'un dépôt partagé.
+<h1>---------------------------------------------------------------- </h1>
 
 
    <img src="captures/fonct pro.png" width="700" height="auto">
