@@ -39,7 +39,7 @@ Chaque microservice offre des fonctionnalités accessibles via des endpoints RES
 
 
 
-<h1>------------------------------------------------------------ </h1>
+<h1>----------------------------------------------------------------- </h1>
 
 #### Customer-Service
 - **API pour les clients** :
