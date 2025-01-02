@@ -38,7 +38,7 @@ Chaque microservice offre des fonctionnalités accessibles via des endpoints RES
 
 <h1>Architecture du projet </h1>
 
-<img src="captures/img_11.png">
+<img src="captures/img_22.png">
 
 
 
