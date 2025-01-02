@@ -110,6 +110,16 @@ L'interface utilisateur est conçue avec **Angular**, garantissant une expérien
 
 
 
+## 🚀 Lancement du Projet
+
+### Backend
+1. Lancez chaque microservice par ordre : Dicovery, config, customer, inventory, gateway,billing.
+
+### Frontend
+1. Accédez au dossier Angular : ` cd .\ecom-web-app\`.
+2. Lancez l'application : `ng serve`.
+---
+
 
 
 
