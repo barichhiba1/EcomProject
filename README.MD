@@ -31,7 +31,7 @@ Ce projet implémente un système complet avec une architecture **microservices*
 
 Chaque microservice offre des fonctionnalités accessibles via des endpoints RESTful, permettant une interaction fluide et scalable entre les services.
 
-<h3> ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤ </h3>
+
 
 <h1>Architecture du projet </h1>
 <img src="captures/img_11.png">
@@ -39,7 +39,7 @@ Chaque microservice offre des fonctionnalités accessibles via des endpoints RES
 
 
 
-<h1>-------------------------------------------------- </h1>
+<h1>------------------------------------------------------------ </h1>
 
 #### Customer-Service
 - **API pour les clients** :
@@ -110,7 +110,7 @@ L'interface utilisateur est conçue avec **Angular**, garantissant une expérien
 
 
 
-<h3> ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤ </h3>
+<h3> Hiba Barich  </h3>
 
 
 
